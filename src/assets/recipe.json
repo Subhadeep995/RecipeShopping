@@ -1,0 +1,10 @@
+{
+    "name" : "Admin",
+    "description" : "a",
+    "imagePath":"aa",
+    "ingredients" : [
+        {"name" : "admin", "amount" : 1 },
+        {"name" : "admin", "amount" : 1 },
+        {"name" : "admin", "amount" : 1 }
+    ]
+}
