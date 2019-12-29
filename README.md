@@ -7,8 +7,8 @@ This project was generated with Angular CLI version 6.0.8.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4100/`. The app will automatically reload if you change any of the source files.
 
 ## Description
-<img src="Ang1.png" >
-
+<img src="Ang1.png" width="100" height="100"/>
+![images](Ang1.png)
 
 ## Build
 
