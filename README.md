@@ -7,8 +7,8 @@ This project was generated with Angular CLI version 6.0.8.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4100/`. The app will automatically reload if you change any of the source files.
 
 ## Description
-<img src="image/Ang1.png" width="100" height="100"/>
-![image](image/Ang1.png)
+This is a web application where many recipe with ingredients are present and user can add those ingredients in shopping list.
+If user will log in then user can add/edit/delete recipe.
 
 ## Build
 
@@ -16,10 +16,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via Karma.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests via Protractor.
 
 
